@@ -26,6 +26,8 @@ int main()
         cout << pair.first << " - " << pair.second << endl;
         // first means "key". second means "value".
     }
+    myDictionary.erase("strawberry");
+    // erase can delete the element.
 
 
     // use clear to delete all the elements in your map
