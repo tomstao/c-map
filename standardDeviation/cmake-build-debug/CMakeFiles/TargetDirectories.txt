@@ -1,0 +1,3 @@
+/Users/sutommy/codingPractice/standardDeviation/cmake-build-debug/CMakeFiles/standardDeviation.dir
+/Users/sutommy/codingPractice/standardDeviation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sutommy/codingPractice/standardDeviation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
